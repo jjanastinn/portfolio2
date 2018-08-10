@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link href="https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700,800" rel="stylesheet">
+  <link rel="stylesheet" href="./index.css">
+  <title>Document</title>
+</head>
+<body onload="draw();">
+
+  <header>
+    <div id="logo">
+      <img src="./img/Logo_2.svg" alt="Theresa Scholl"/>
+    </div>
+  
+    <div id="nav-bar">
+      <p class="nav-item"><a href="">About</a></p>
+      <p class="nav-item"><a href="">Portfolio</a></p>
+      <p class="nav-item"><a href="">Resume</a></p>
+      <!-- <p class="nav-item"><a href="">Contact</a></p> -->
+    </div>
+  </header>
+
+  <main>
+    <div id="hero-stage">
+      <img src="./img/Logo_1.svg" alt="Theresa Scholl" id="main-img"/>
+    </div>
+  
+    <div id="about">
+      <h2>About</h2>
+      <div class="pink-line"></div>
+      <div id="profile">
+        <div id="profile-container">
+          <img src="./img/profile.jpg" alt="profile picture" id="profile-pic"/>
+        </div>
+        <p class="profile-content">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,</p>
+      </div>
+    </div>
+    
+    <div id="backdrop"></div>
+    <div id="modal">
+      <!-- <div id="modal-header">
+        <h3 id="modal-headline">Lorem Ipsum 1</h3>
+        <div id="modal-close"><img src="./img/close.svg" alt=""/></div>
+      </div>
+      <div id="modal-content">
+        <p id="modal-description">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut.</p>
+        <div id="modal-slider">
+          <img src="./img/portfolio/1.jpg" alt="x" class="slider-img"/>
+          <img src="./img/portfolio/2.jpg" alt="x" class="slider-img"/>
+          <img src="./img/portfolio/3.jpg" alt="x" class="slider-img"/>
+          <img src="./img/portfolio/4.jpg" alt="x" class="slider-img"/>
+          <img src="./img/portfolio/5.jpg" alt="x" class="slider-img"/>
+          <img src="./img/portfolio/6.jpg" alt="x" class="slider-img"/>
+        </div>
+      </div> -->
+    </div>
+    
+
+    
+    <div id="portfolio">
+      <h2>Portfolio</h2>
+      <div class="pink-line"></div> 
+      
+      <div id="test"></div>
+      <!-- <div id="portfolio-wall">
+        <div class="wall-entry">
+          <img src="./img/portfolio/1.jpg" alt="" class="wall-img"/>
+          <div class="img-overlay">
+            <h3>Project 1</h3>
+            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt.</p>
+          </div>
+        </div>
+        <div class="wall-entry">
+          <img src="./img/portfolio/2.jpg" alt="" class="wall-img"/>
+          <div class="img-overlay">
+            <h3>Project 2</h3>
+            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt.</p>
+          </div>
+        </div>
+        <div class="wall-entry">
+          <img src="./img/portfolio/3.jpg" alt="" class="wall-img"/>
+          <div class="img-overlay">
+            <h3>Project 3</h3>
+            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt.</p>
+          </div>
+        </div>
+        <div class="wall-entry">
+          <img src="./img/portfolio/4.jpg" alt="" class="wall-img"/>
+          <div class="img-overlay">
+            <h3>Project 4</h3>
+            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt.</p>
+          </div>
+        </div>
+        <div class="wall-entry">
+          <img src="./img/portfolio/5.jpg" alt="" class="wall-img"/>
+          <div class="img-overlay">
+            <h3>Project 5</h3>
+            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt.</p>
+          </div>
+        </div>
+        <div class="wall-entry">
+          <img src="./img/portfolio/6.jpg" alt="" class="wall-img"/>
+          <div class="img-overlay">
+            <h3>Project 6</h3>
+            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt.</p>
+          </div>
+        </div>
+        <div class="wall-entry">
+          <img src="./img/portfolio/7.jpg" alt="" class="wall-img"/>
+          <div class="img-overlay">
+            <h3>Project 7</h3>
+            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt.</p>
+          </div>
+        </div>
+      </div>    -->
+    </div>
+  
+    <div id="cv">
+      <h2>Resume</h2>
+      <div class="pink-line"></div> 
+      <div id="experience">
+        <canvas id="myCanvas" class="experience-list"></canvas>
+        <div id="experience-list">
+          <div class="experience-entry">
+            <h3>Lorem ipsum 1</h3>
+            <p>03.2010 - 12.2010</p>
+            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. </p>
+          </div>
+          <div class="experience-entry">
+            <h3>Lorem ipsum 2</h3>
+            <p>03.2010 - 12.2010</p>
+            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+          </div>
+          <div class="experience-entry">
+            <h3>Lorem ipsum 3</h3>
+            <p>03.2010 - 12.2010</p>
+            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+          </div>
+          <div class="experience-entry">
+            <h3>Lorem ipsum 4</h3>
+            <p>03.2010 - 12.2010</p>
+            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+          </div>
+          <div class="experience-entry">
+            <h3>Lorem ipsum 5</h3>
+            <p>03.2010 - 12.2010</p>
+            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+          </div>
+        </div>
+      </div>   
+    </div>
+  </main>
+
+
+  <div id="contact">
+    <p class="contact-content">&copy; 2018 Theresa Scholl — All Rights Reserved</p>
+    <div class="contact-content contact-icon">
+      <a href="https://www.xing.com/"><img src="./img/xing.svg" alt="xing" target="_blank" rel="noopener"/></a>
+    </div>
+  </div>
+
+  <!-- <script type="text/javascript" src="http://localhost:3000/portfolio"></script> -->
+  <script type="text/javascript" src="./index.js"></script>
+</body>
+</html>

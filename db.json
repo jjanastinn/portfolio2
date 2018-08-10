@@ -1,0 +1,175 @@
+{
+	"portfolio": [{
+			"project": "Ipsum 1",
+			"about": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+			"images": [{
+					"img": "./img/portfolio/1.jpg",
+					"alt": "sed diam nonumy"
+				},
+				{
+					"img": "./img/portfolio/2.jpg",
+					"alt": "sed diam nonumy"
+				},
+				{
+					"img": "./img/portfolio/3.jpg",
+					"alt": "sed diam nonumy"
+				},
+				{
+					"img": "./img/portfolio/4.jpg",
+					"alt": "sed diam nonumy"
+				}
+			]
+		},
+		{
+			"project": "Ipsum 2",
+			"about": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+			"images": [{
+					"img": "./img/portfolio/2.jpg",
+					"alt": "sed diam nonumy"
+				},
+				{
+					"img": "./img/portfolio/5.jpg",
+					"alt": "sed diam nonumy"
+				},
+				{
+					"img": "./img/portfolio/3.jpg",
+					"alt": "sed diam nonumy"
+				},
+				{
+					"img": "./img/portfolio/4.jpg",
+					"alt": "sed diam nonumy"
+				}
+			]
+		},
+		{
+			"project": "Ipsum 3",
+			"about": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor",
+			"images": [{
+					"img": "./img/portfolio/3.jpg",
+					"alt": "sed diam nonumy"
+				},
+				{
+					"img": "./img/portfolio/2.jpg",
+					"alt": "sed diam nonumy"
+				},
+				{
+					"img": "./img/portfolio/5.jpg",
+					"alt": "sed diam nonumy"
+				},
+				{
+					"img": "./img/portfolio/4.jpg",
+					"alt": "sed diam nonumy"
+				}
+			]
+		},
+		{
+			"project": "Ipsum 4",
+			"about": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+			"images": [{
+					"img": "./img/portfolio/4.jpg",
+					"alt": "sed diam nonumy"
+				},
+				{
+					"img": "./img/portfolio/2.jpg",
+					"alt": "sed diam nonumy"
+				},
+				{
+					"img": "./img/portfolio/3.jpg",
+					"alt": "sed diam nonumy"
+				},
+				{
+					"img": "./img/portfolio/5.jpg",
+					"alt": "sed diam nonumy"
+				}
+			]
+		},
+		{
+			"project": "Ipsum 5",
+			"about": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor Lorem ipsum dolor sit amet, consetetur sadipscing Lorem ipsum dolor sit amet, consetetur sadipscing.",
+			"images": [{
+					"img": "./img/portfolio/5.jpg",
+					"alt": "sed diam nonumy"
+				},
+				{
+					"img": "./img/portfolio/2.jpg",
+					"alt": "sed diam nonumy"
+				},
+				{
+					"img": "./img/portfolio/3.jpg",
+					"alt": "sed diam nonumy"
+				},
+				{
+					"img": "./img/portfolio/4.jpg",
+					"alt": "sed diam nonumy"
+				}
+			]
+		},
+		{
+			"project": "Ipsum 6",
+			"about": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor Lorem ipsum dolor sit amet, consetetur sadipscing Lorem ipsum dolor sit amet, consetetur sadipscing.",
+			"images": [{
+					"img": "./img/portfolio/6.jpg",
+					"alt": "sed diam nonumy"
+				},
+				{
+					"img": "./img/portfolio/2.jpg",
+					"alt": "sed diam nonumy"
+				},
+				{
+					"img": "./img/portfolio/3.jpg",
+					"alt": "sed diam nonumy"
+				},
+				{
+					"img": "./img/portfolio/4.jpg",
+					"alt": "sed diam nonumy"
+				}
+			]
+		}
+	],
+	"experience": [{
+			"job": "Lorem Ipsum 1",
+			"date": "01.2010 - 12.2012",
+			"company": "Dolor sit amet",
+			"description": {
+				"intro": "asf",
+				"list": ["task 1", "task 2", "task 3"]
+			}
+		},
+		{
+			"job": "Lorem Ipsum 2",
+			"date": "01.2011 - 12.2014",
+			"company": "Dolor sit amet",
+			"description": {
+				"intro": "asf",
+				"list": ["task 1", "task 2", "task 3"]
+			}
+		},
+		{
+			"job": "Lorem Ipsum 3",
+			"date": "01.2014 - 12.2016",
+			"company": "Dolor sit amet",
+			"description": {
+				"intro": "asf",
+				"list": ["task 1", "task 2", "task 3"]
+			}
+		},
+		{
+			"job": "Lorem Ipsum 6",
+			"date": "01.2014 - 12.2016",
+			"company": "Dolor sit amet",
+			"description": {
+				"intro": "asf",
+				"list": ["task 1", "task 2", "task 3"]
+			}
+		},
+		{
+			"job": "Lorem Ipsum 5",
+			"date": "01.2014 - 12.2016",
+			"company": "Dolor sit amet",
+			"description": {
+				"intro": "asf",
+				"list": ["task 1", "task 2", "task 3"]
+			}
+		}
+	]
+}
